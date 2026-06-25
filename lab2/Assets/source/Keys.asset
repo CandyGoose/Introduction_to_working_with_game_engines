@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5db61d5e4ea01364990d90f352d5c960, type: 3}
+  m_Name: Keys
+  m_EditorClassIdentifier: 
+  itemName: Keys
+  icon: {fileID: 21300000, guid: bb831c129e38a6146ab0c4f6730b0c04, type: 3}
+  isConsumable: 1
